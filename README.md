@@ -1,4 +1,3 @@
-# Tribute-Page-P1
 My first webpage, for the freecodecamp curriculum. My [final project on codepen](https://codepen.io/yahx/full/WNGPWoK).
 
 Below are the instructions provided:
