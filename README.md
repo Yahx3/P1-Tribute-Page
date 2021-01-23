@@ -1,4 +1,7 @@
 This is my first webpage. It's created as part of the freecodecamp curriculum. 
+
+The project highlights basic HTML and CSS skills. It teaches the understandings of lists, images, links, and the use CSS for correcting the placement elements. 
+
 View my [final project on codepen](https://codepen.io/yahx/full/WNGPWoK), or using the files in this repo.
 
 Below are the instructions provided:
