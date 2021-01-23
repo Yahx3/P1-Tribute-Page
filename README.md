@@ -1,4 +1,5 @@
-My first webpage, for the freecodecamp curriculum. My [final project on codepen](https://codepen.io/yahx/full/WNGPWoK).
+This is my first webpage. It's created as part of the freecodecamp curriculum. 
+View my [final project on codepen](https://codepen.io/yahx/full/WNGPWoK), or using the files in this repo.
 
 Below are the instructions provided:
 # Responsive Web Design Projects - Build a Tribute Page

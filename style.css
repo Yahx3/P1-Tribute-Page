@@ -1,0 +1,37 @@
+body {
+    background: #efeede;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    position: relative;
+    margin: auto;
+    max-width: 100%;
+    max-height: 40em;
+    height: auto;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#tribute-info {
+    padding: 10px;
+    background: #dbdac3;
+}
+
+#tribute-more-info{
+    padding: 10px;
+}
+
+ul {
+    display: block;
+    padding: 10px 90px;
+}
+
+li {
+    padding: 5px 0px;
+    text-align: left;
+}
